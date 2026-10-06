@@ -39,6 +39,12 @@ About Me
 </p>
 
 ---
+---
+
+### 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://github.com/TashfiqOnbir/TashfiqOnbir/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ### 🤝 CONNECT WITH ME
 <p align="center">
