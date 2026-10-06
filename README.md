@@ -1,16 +1,47 @@
-## Hi there 👋
+# tashfiqonbir 
+About Me
+<h1 align="center">Hi 👋, I'm TASHFIQ ONBIR</h1>
+<h3 align="center">Exploring something different from others</h3>
 
-<!--
-**tashfiqonbir/tashfiqonbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Learner;Beginner+Developer;Exploring+Something+New" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 I’m currently **learning Python from the beginning**
+- 💡 Exploring something different from others
+- ⚡ Fun fact: I love to build small games and automate things
+- 📌 Btw i love to do coding with (AI). [That's The true] 
+---
+
+### 🛠️ TECH STACK
+#### PROGRAMMING LANGUAGES
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+#### LEARNING 
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+</p>
+
+---
+
+### 📊 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tashfiqonbir&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TashfiqOnbir&theme=radical" alt="streak"/>
+</p>
+
+---
+
+### 🤝 CONNECT WITH ME
+<p align="center">
+  <a href="https://t.me/anonymous_duplicate"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://facebook.com/onbir.official"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
