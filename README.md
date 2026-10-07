@@ -30,20 +30,17 @@
 ---
 
 ### 🎮 PLAY A MINI GAME
-আমার favorite কাজ: ছোট ছোট game বানানো 😎
+আমার favorite কাজ: ছোট ছোট game বানানো 😎 নিচের code টা run করো
 
-#### 1. Snake on my Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tashfiqonbir/tashfiqonbir/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-</p>
-
-#### 2. Play in Terminal
 ```python
 import random
+
 print("🎮 Welcome to Number Guessing Game!")
 print("I'm thinking of a number between 1-10")
+
 secret = random.randint(1, 10)
 tries = 3
+
 for i in range(tries):
     guess = int(input(f"Try {i+1}: "))
     if guess == secret:
