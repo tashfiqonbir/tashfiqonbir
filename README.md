@@ -34,7 +34,7 @@
 
 #### 1. Snake on my Contributions
 <p align="center">
-  <img src="https://github.com/tashfiqonbir/tashfiqonbir/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/tashfiqonbir/tashfiqonbir/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </p>
 
 #### 2. Play in Terminal
