@@ -1,5 +1,4 @@
-# tashfiqonbir 
-About Me
+# tashfiqonbir About Me 
 <h1 align="center">Hi 👋, I'm TASHFIQ ONBIR</h1>
 <h3 align="center">Exploring something different from others</h3>
 
@@ -11,9 +10,10 @@ About Me
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently **learning Python from the beginning**
-- 💡 Exploring something different from others
+- 💡 Exploring something different from others  
 - ⚡ Fun fact: I love to build small games and automate things
-- 📌 Btw i love to do coding with (AI). [That's The true] 
+- 📌 Btw i love to do coding with (AI). [That's The true]
+
 ---
 
 ### 🛠️ TECH STACK
@@ -22,26 +22,36 @@ About Me
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-#### LEARNING 
+#### LEARNING
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </p>
 
 ---
 
-### 📊 GITHUB STATS
+### 🎮 PLAY A MINI GAME
+আমার favorite কাজ: ছোট ছোট game বানানো 😎
+
+#### 1. Snake on my Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tashfiqonbir&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github.com/tashfiqonbir/tashfiqonbir/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TashfiqOnbir&theme=radical" alt="streak"/>
-</p>
-
----
-
-### 🤝 CONNECT WITH ME
-<p align="center">
-  <a href="https://t.me/anonymous_duplicate"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://facebook.com/onbir.official"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+#### 2. Play in Terminal
+```python
+import random
+print("🎮 Welcome to Number Guessing Game!")
+print("I'm thinking of a number between 1-10")
+secret = random.randint(1, 10)
+tries = 3
+for i in range(tries):
+    guess = int(input(f"Try {i+1}: "))
+    if guess == secret:
+        print("🎉 Correct! You won!")
+        break
+    elif guess < secret:
+        print("📈 Too Low!")
+    else:
+        print("📉 Too High!")
+else:
+    print(f"💀 Game Over! The number was: {secret}")
